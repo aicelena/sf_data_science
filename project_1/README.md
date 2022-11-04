@@ -1,4 +1,5 @@
 # Проект 1. Угадай число
+[Проект 1](https://github.com/aicelena/sf_data_science/tree/main/project_1)
 
 ## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
