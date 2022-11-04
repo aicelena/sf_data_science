@@ -2,17 +2,17 @@
 [Проект 1](https://github.com/aicelena/sf_data_science/tree/main/project_1)
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Результат)    
+[6. Выводы](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -34,7 +34,7 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -42,21 +42,20 @@
 
 Затем была написана функция score_game, которая считает среднее значение попыток угадывания из 1000 попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 Получили игру, угадывающую числа в среднем за 5 попыток.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 Была создана программа, которая угадывает рандомно загаданное число 1000 раз за минимальное количество попыток меньше 20.
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/aicelena/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
-***Мой файл с данными:*** 
-(https://docs.google.com/document/d/1pkjHrh5srQiGI1wAU-lMQLeYQlMTxzeVjnmT_mdStBU/edit?usp=share_link)
+[Мой файл с данными](https://docs.google.com/document/d/1pkjHrh5srQiGI1wAU-lMQLeYQlMTxzeVjnmT_mdStBU/edit?usp=share_link)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
