@@ -55,5 +55,7 @@
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
+***Мой файл с данными:*** 
+(https://docs.google.com/document/d/1pkjHrh5srQiGI1wAU-lMQLeYQlMTxzeVjnmT_mdStBU/edit?usp=share_link)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
